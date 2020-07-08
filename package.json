@@ -5,7 +5,7 @@
   "type": "module",
   "main": "app.js",
   "scripts": {
-    "start": "/"
+    "start": "/run.bat"
   },
   "author": "",
   "license": "ISC",
