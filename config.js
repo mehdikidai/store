@@ -1,7 +1,7 @@
 export default {
 
-    startDate: new Date("2021-12-01"),
-    endDate: new Date("2021-12-20"),
-    numberOfDates: 10,
+    startDate: new Date("2022-01-01"),
+    endDate: new Date("2022-12-10"),
+    numberOfDates: 600,
 
 };
